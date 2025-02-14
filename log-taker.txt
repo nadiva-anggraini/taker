@@ -95,3 +95,15 @@
 2/14/2025 | 7:07:09 AM | WARN | Retrying... (0 attempts left) 
 2/14/2025 | 7:09:13 AM | ERROR | Failed to get nonce after retries: Request failed with status code 504
 2/14/2025 | 7:09:13 AM | ERROR | Failed to retrieve nonce for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+2/14/2025 | 8:23:02 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/14/2025 | 8:23:03 AM | INFO | Start process for wallet 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+2/14/2025 | 8:23:03 AM | INFO | Trying To Login for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+2/14/2025 | 8:23:04 AM | INFO | Login successful... 
+2/14/2025 | 8:23:04 AM | INFO | Trying to check user info... 
+2/14/2025 | 8:23:05 AM | INFO | User ID: 44741 | Twitter: @naadiivaa | Total Points: 592135 
+2/14/2025 | 8:23:05 AM | INFO | Trying to check user miner status... 
+2/14/2025 | 8:23:06 AM | INFO | Last mining time: 2/11/2025, 10:16:45 PM
+2/14/2025 | 8:23:06 AM | INFO | Trying to start Mining for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+2/14/2025 | 8:23:07 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+2/14/2025 | 8:23:07 AM | INFO | Trying to activate mining on-chain for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+2/14/2025 | 8:23:13 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x482415f3300acf69b707f9119972a7aa4dac789e731d8de3752805e5d8b4ef30 
