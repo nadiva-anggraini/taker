@@ -1135,3 +1135,12 @@
 3/4/2025 | 8:23:03 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/4/2025 | 8:23:03 AM | INFO | Trying to activate mining on-chain for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
 3/4/2025 | 8:23:10 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x46dc70d788bbd983111a8694cf1c1cd4c69e9ec763a44972429b3cba068d437c 
+3/4/2025 | 12:37:25 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/4/2025 | 12:37:25 PM | INFO | Start process for wallet 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+3/4/2025 | 12:37:26 PM | INFO | Trying To Login for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+3/4/2025 | 12:37:27 PM | INFO | Login successful... 
+3/4/2025 | 12:37:27 PM | INFO | Trying to check user info... 
+3/4/2025 | 12:37:28 PM | INFO | User ID: 44741 | Twitter: @naadiivaa | Total Points: 4034150 
+3/4/2025 | 12:37:28 PM | INFO | Trying to check user miner status... 
+3/4/2025 | 12:37:28 PM | INFO | Last mining time: 3/4/2025, 8:23:09 AM
+3/4/2025 | 12:37:28 PM | WARN | Mining already started, next mining time is: 3/5/2025, 8:23:09 AM
