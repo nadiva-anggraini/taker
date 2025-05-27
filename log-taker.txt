@@ -5805,3 +5805,12 @@
 5/26/2025 | 8:28:52 PM | WARN | Retrying... (0 attempts left) 
 5/26/2025 | 8:31:12 PM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 5/26/2025 | 8:31:12 PM | ERROR | Failed to retrieve nonce for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+5/27/2025 | 1:42:35 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/27/2025 | 1:42:35 AM | INFO | Start process for wallet 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+5/27/2025 | 1:42:36 AM | INFO | Trying To Login for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+5/27/2025 | 1:42:37 AM | INFO | Login successful... 
+5/27/2025 | 1:42:37 AM | INFO | Trying to check user info... 
+5/27/2025 | 1:42:37 AM | INFO | User ID: 44741 | Twitter: @naadiivaa | Total Points: 19542270 
+5/27/2025 | 1:42:37 AM | INFO | Trying to check user miner status... 
+5/27/2025 | 1:42:38 AM | INFO | Last mining time: 5/26/2025, 4:27:00 AM
+5/27/2025 | 1:42:38 AM | WARN | Mining already started, next mining time is: 5/27/2025, 4:27:00 AM
