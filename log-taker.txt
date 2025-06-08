@@ -6501,3 +6501,13 @@
 6/8/2025 | 4:30:44 AM | INFO | Trying to check user miner status... 
 6/8/2025 | 4:30:45 AM | INFO | Last mining time: 6/7/2025, 8:21:09 PM
 6/8/2025 | 4:30:45 AM | WARN | Mining already started, next mining time is: 6/8/2025, 8:21:09 PM
+6/8/2025 | 8:24:30 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/8/2025 | 8:24:30 AM | INFO | Start process for wallet 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
+6/8/2025 | 8:26:45 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+6/8/2025 | 8:26:45 AM | WARN | Retrying... (2 attempts left) 
+6/8/2025 | 8:29:04 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+6/8/2025 | 8:29:04 AM | WARN | Retrying... (1 attempts left) 
+6/8/2025 | 8:31:23 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+6/8/2025 | 8:31:23 AM | WARN | Retrying... (0 attempts left) 
+6/8/2025 | 8:33:42 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
+6/8/2025 | 8:33:42 AM | ERROR | Failed to retrieve nonce for wallet: 0xCD2ce299f505C01C9C058Bc314CF8F36bF3D97ae 
